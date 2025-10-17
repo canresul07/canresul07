@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Can Hyrest
+# 👋 Hey, I'm Can
 
 🎮 **Game Developer | Web Developer | AI Enthusiast**  
 I’m passionate about building relaxing and visually clean 3D games, exploring new tech stacks, and constantly improving my coding skills.  
@@ -23,15 +23,15 @@ I’m passionate about building relaxing and visually clean 3D games, exploring 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=canrsul07&show_icons=true&theme=radical" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canrsul07&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=canresul07&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canresul07&layout=compact&theme=radical" height="165" />
 </p>
 
 ---
 
 ## 🔥 Streak & Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=canrsul07&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=canresul07&theme=radical" />
 </p>
 
 ---
@@ -52,6 +52,6 @@ I’m passionate about building relaxing and visually clean 3D games, exploring 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/canrsul07/canrsul07/main/assets/dev.gif" width="400px" /><br>
+  <img src="https://raw.githubusercontent.com/canresul07/canresul07/main/assets/dev.gif" width="400px" /><br>
   <em>"Keep coding, keep creating, keep improving."</em>
 </p>
