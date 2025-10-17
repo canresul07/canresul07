@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Can Hyrest
+# 👋 Hey, I'm Can 
 
 🎮 **Game Developer | Web Developer | AI Enthusiast**  
 I’m passionate about building relaxing and visually clean 3D games, exploring new tech stacks, and constantly improving my coding skills.  
