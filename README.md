@@ -35,7 +35,7 @@ Passionate about turning ideas into polished, playable, and practical projects.
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=canresul07&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canresul07&theme=radical&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
