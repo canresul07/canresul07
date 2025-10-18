@@ -19,7 +19,7 @@ Passionate about turning ideas into polished, playable, and practical projects.
 ## 🧠 Tech Stack
 **Languages & Tools I Use:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,cs,java,python,html,css,js,nodejs,postgresql,sqlite,vscode,git,github,figma,blender" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,java,python,html,css,js,nodejs,postgresql,sqlite,vscode,git,github,blender" />
 </p>
 
 ---
