@@ -1,57 +1,80 @@
-# 👋 Hey, I'm Can
+# 👋 Hey, I'm Rasul Can Çulğatay
 
-🎮 **Game Developer | Web Developer | AI Enthusiast**  
-I’m passionate about building relaxing and visually clean 3D games, exploring new tech stacks, and constantly improving my coding skills.  
+🎮 **Game Developer | Full Stack Developer | Designer**  
+I build creative and interactive digital experiences — from pixel-art indie games to full-stack web applications.  
+Passionate about turning ideas into polished, playable, and practical projects.
 
 ---
 
 ## 🚀 About Me
-- 🔧 Currently developing a **low poly endless runner car game** in Unity  
-- 💡 Interested in **AI, Game Design, and Web Development**  
-- 🌱 Always learning something new — from **C# scripting** to **frontend frameworks**  
-- ☕ Loves clean UI, smooth gameplay, and creative ideas that stand out  
+- 🎮 Passionate about **game development** with Unity (2D & 3D)  
+- 💻 Experienced in **frontend**, **backend**, and **database** systems through school projects and internship  
+- 🎨 Skilled in **2D pixel art**, **modeling**, and **animation**  
+- ⚙️ Proficient with **C#, Java, Python, HTML, CSS, JS, Node.js, PostgreSQL, SQLite**  
+- 🌱 Currently developing new games and full-stack web projects  
+- ☕ Loves combining **logic**, **aesthetics**, and **smooth functionality**
 
 ---
 
 ## 🧠 Tech Stack
 **Languages & Tools I Use:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=unity,cs,java,python,html,css,js,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,java,python,html,css,js,nodejs,postgresql,sqlite,vscode,git,github,figma,blender" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=canresul07&show_icons=true&theme=radical" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=canresul07&layout=compact&theme=radical" height="165" />
 </p>
 
----
-
-## 🔥 Streak & Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=canresul07&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=canresul07&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</p>
+
 ---
 
-## 🎯 Currently Working On
-- 🏎️ **Endless Runner Car Game (Unity)**
-- 🧩 Experimenting with **AI & Machine Learning**  
-- 🌐 Exploring **modern web dev stacks**  
+## 🕹️ Game Development Projects
+🎯 **Some Things I’ve Built:**
+- 🧩 2D pixel-art platformer made with Unity  
+- 🚗 Multiple prototype games experimenting with new mechanics  
+- 🎨 Focused on **game feel**, **smooth controls**, and **unique visual style**
+
+---
+
+## 💻 Web & Backend Projects
+- 🌐 Developed **Full Stack Web Apps** using **Node.js, HTML, CSS, JS, PostgreSQL, SQLite**  
+- 🧱 Built **frontend + backend** systems for both internship and academic projects  
+- 💡 Focused on clean architecture, performance, and responsive design  
+
+---
+
+## 📈 Achievements & Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canresul07&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=canresul07&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
 ## 💬 Connect With Me
 <p align="left">
-  <a href="mailto:canhyrest@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/canhyrest"><img src="https://img.shields.io/badge/LinkedIn-Can%20Hyrest-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:rcculgatay@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/rasul-can-%C3%A7ul%C4%9Fatay-0b5525347/"><img src="https://img.shields.io/badge/LinkedIn-Rasul%20Can%20Çulğatay-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/canresul07/canresul07/main/assets/dev.gif" width="400px" /><br>
-  <em>"Keep coding, keep creating, keep improving."</em>
+  <em>"Code. Create. Iterate."</em>
 </p>
